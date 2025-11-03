@@ -9,7 +9,7 @@ Hey there! I’m a Full-Stack Software Engineer who loves turning ideas into rea
 
 - 📧 Email: [nathezek7@gmail.com](mailto:nathezek7@gmail.com)
 - 📸 Instagram: [@nate_zek7](https://www.instagram.com/nate_zek7/)
-- 🐙 GitHub: [github.com/nate-zek](https://github.com/nathezek)
+- 🐙 GitHub: [github.com/nathezek](https://github.com/nathezek)
 
 Looking forward to building something great together! 💡🚀
 
