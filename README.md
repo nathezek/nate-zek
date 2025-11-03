@@ -1,64 +1,15 @@
-# Hi there! 👋 I'm Nati
-
-I'm a **Frontend Web Developer** who builds scalable, responsive, and impactful web applications. I’m currently diving deeper into **Next 15** and **Angular 19** to expand my toolkit and have experience working with **React 19, Next.js, and Angular 18**. My goal is to contribute to **large-scale systems** that push the limits of modern web technologies.
-
+# 💫 About Me:
+Hey there! I’m a Full-Stack Software Engineer who loves turning ideas into real, working products. I build with JavaScript, TypeScript, React, Vue, Next.js, Tailwind CSS, and Python — crafting everything from clean front-ends to efficient back-ends.<br><br>Recently, I’ve been diving deep into Machine Learning, Large Language Models (LLMs), and AI-driven applications — exploring how intelligence can be integrated seamlessly into modern software.<br><br>💡 I’m passionate about open-source, Linux, and collaborative innovation. Whether it’s contributing to community tools or launching something new, I’m always excited to learn, share, and build with others.<br><br>🚀 Let’s collaborate!<br>I’m open to partnerships on projects related to AI, Linux, developer tools, and productivity software — or any idea that challenges creativity and engineering skill.<br><br>📩 Let’s connect!<br>If you’re a company looking for a developer who blends solid engineering with curiosity and innovation, or a developer looking to collaborate — don’t hesitate to reach out!
 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-- 🌐 Frontend Developer with **5+ years of experience**, specializing in **Angular, React, and Next.js**.
-- 🌱 Currently learning **Angular 18** to strengthen my skillset.
-- 🤝 Looking for **collaborative opportunities** to work on **large-scale projects**.
-- 🔍 Passionate about writing **clean, efficient, and maintainable code**.
-
-
-
-## 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</div>
-
-
-
-## 🌟 Skills
-
-- **Component-Based Design** for scalability and reusability.
-- **Responsive Design** to ensure cross-device compatibility.
-- **API Integration** and handling asynchronous data flows.
-- **Collaborative Development** using Git, PRs, and code reviews.
-
-
-
-## 🎯 Goals
-
-- **Deepen** my understanding of **Next.js and Angular** to build dynamic, data-driven applications.
-- **Collaborate** on projects that are both challenging and scalable.
-- **Contribute** to open-source projects and learn from the community.
-
-
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing **new projects, collaborations, or learning opportunities**. If you have a **big system** in mind or a **cool project**, feel free to reach out! 🚀
+# Connect with me
 
 - 📧 Email: [nathezek7@gmail.com](mailto:nathezek7@gmail.com)
 - 📸 Instagram: [@nate_zek7](https://www.instagram.com/nate_zek7/)
-- 🐙 GitHub: [github.com/nate-zek](https://github.com/nate-zek)
+- 🐙 GitHub: [github.com/nate-zek](https://github.com/nathezek)
 
 Looking forward to building something great together! 💡🚀
 
