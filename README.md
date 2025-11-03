@@ -1,3 +1,11 @@
+███╗   ██╗ █████╗ ████████╗██╗  ██╗███████╗███████╗███████╗██╗  ██╗
+████╗  ██║██╔══██╗╚══██╔══╝██║  ██║██╔════╝╚══███╔╝██╔════╝██║ ██╔╝
+██╔██╗ ██║███████║   ██║   ███████║█████╗    ███╔╝ █████╗  █████╔╝ 
+██║╚██╗██║██╔══██║   ██║   ██╔══██║██╔══╝   ███╔╝  ██╔══╝  ██╔═██╗ 
+██║ ╚████║██║  ██║   ██║   ██║  ██║███████╗███████╗███████╗██║  ██╗
+╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
+                                                                   
+
 # 💫 About Me:
 Hey there! I’m a Full-Stack Software Engineer who loves turning ideas into real, working products. I build with JavaScript, TypeScript, React, Vue, Next.js, Tailwind CSS, and Python — crafting everything from clean front-ends to efficient back-ends.<br><br>Recently, I’ve been diving deep into Machine Learning, Large Language Models (LLMs), and AI-driven applications — exploring how intelligence can be integrated seamlessly into modern software.<br><br>💡 I’m passionate about open-source, Linux, and collaborative innovation. Whether it’s contributing to community tools or launching something new, I’m always excited to learn, share, and build with others.<br><br>🚀 Let’s collaborate!<br>I’m open to partnerships on projects related to AI, Linux, developer tools, and productivity software — or any idea that challenges creativity and engineering skill.<br><br>📩 Let’s connect!<br>If you’re a company looking for a developer who blends solid engineering with curiosity and innovation, or a developer looking to collaborate — don’t hesitate to reach out!
 
