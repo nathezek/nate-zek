@@ -6,53 +6,48 @@
 ██║ ╚████║██║  ██║   ██║   ██║  ██║███████╗███████╗███████╗██║  ██╗
 ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```                                                                   
-Hi, I'm a Full-Stack Software Engineer based in Ethiopia. Working remotely worldwide.
-Tools I Use
-Frontend
+# Hi there! 👋
 
-JavaScript, TypeScript
+I'm a Nathan **Full-Stack Software Engineer** based in Ethiopia, working remotely worldwide.
 
-React, Next.js, Vue
+---
 
-Tailwind CSS
+## Tools I work with:
 
-HTML, CSS
+### Frontend
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript`, `TypeScript` |
+| **Frameworks/Libraries** | `React`, `Next.js`, `Vue` |
+| **Styling** | `Tailwind CSS`, `HTML`, `CSS` |
 
-Backend
+### ⚙️ Backend & Systems
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `Rust` |
+| **Runtimes / Frameworks** | `Node.js`, `Express`, `Bun` |
+| **Databases** | `MongoDB`, `MySQL` |
+| **Desktop** | `Electron` |
 
-Node.js, Express
+### ☁️ Cloud & DevOps
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | `AWS`, `Cloudflare`, `Firebase` |
+| **Containerization** | `Docker` |
 
-Python
+### 🧠 Machine Learning
+| Category | Technologies |
+| :--- | :--- |
+| **Libraries** | `PyTorch` |
+| **Stack** | `Python` (ML/AI Stack) |
 
-Rust
+---
 
-MongoDB, MySQL
+## 📫 How to Reach Me
 
-Bun
+Feel free to connect with me:
 
-Electron
-
-Cloud
-
-AWS
-
-Cloudflare
-
-Firebase
-
-Docker
-
-Machine Learning
-
-PyTorch
-
-Python (ML/AI stack)
-
-How to Reach Me
-
-Email: nathezek7@gmail.com
-
-Instagram: @nate_zek7
-
-GitHub: github.com/nathezek
+* **Email:** [nathezek7@gmail.com](mailto:nathezek7@gmail.com)
+* **GitHub:** [github.com/nathezek](https://github.com/nathezek)
+* **Instagram:** [@nate_zek7](https://www.instagram.com/nate_zek7/)
 
