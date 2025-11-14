@@ -13,8 +13,7 @@ I'm currently working on [GR Insights](https://github.com/nathezek/gr-insights).
 * **Machine Learning:** Python (ML/AI stack) Scikit-learn, Pandas, PyTorch
 ---
 
----
 #### You can reach out to me at:
 * **Email:** [nathezek7@gmail.com](mailto:nathezek7@gmail.com)
 * **Instagram:** [@nate_zek7](https://www.instagram.com/nate_zek7/) Prefer this one.
----
+
