@@ -10,9 +10,6 @@ Here are some of the technologies I use:
 * **Cloud & DevOps:** AWS, Cloudflare, Firebase, Docker
 * **Machine Learning:** PyTorch, Python (ML/AI stack)
 
----
-
-**How to Reach Me**
+**Reach Out to me**
 * **Email:** [nathezek7@gmail.com](mailto:nathezek7@gmail.com)
-* **GitHub:** [github.com/nathezek](https://github.com/nathezek)
 * **Instagram:** [@nate_zek7](https://www.instagram.com/nate_zek7/)
