@@ -31,8 +31,6 @@ I'm Nathan, a Full-Stack Software Engineer based in Ethiopia, working remotely w
 * **Libraries:** PyTorch
 * **Stack:** Python (ML/AI Stack)
 
----
-
 ## How to Reach Me
 * **Email:** [nathezek7@gmail.com](mailto:nathezek7@gmail.com)
 * **GitHub:** [github.com/nathezek](https://github.com/nathezek)
