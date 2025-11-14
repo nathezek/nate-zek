@@ -1,38 +1,18 @@
-```txt
-███╗   ██╗ █████╗ ████████╗██╗  ██╗███████╗███████╗███████╗██╗  ██╗
-████╗  ██║██╔══██╗╚══██╔══╝██║  ██║██╔════╝╚══███╔╝██╔════╝██║ ██╔╝
-██╔██╗ ██║███████║   ██║   ███████║█████╗    ███╔╝ █████╗  █████╔╝ 
-██║╚██╗██║██╔══██║   ██║   ██╔══██║██╔══╝   ███╔╝  ██╔══╝  ██╔═██╗ 
-██║ ╚████║██║  ██║   ██║   ██║  ██║███████╗███████╗███████╗██║  ██╗
-╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-```                                                                   
-## Hi there!
+Hey there 👋!
 
-I'm Nathan, a Full-Stack Software Engineer based in Ethiopia, working remotely worldwide.
+I'm [Nathan](https://instagram.com/nate_zek7), a Full-Stack Software Engineer based in Ethiopia, working remotely worldwide. I enjoy building efficient and scalable applications.
 
-## My Tech Stack
+I'm currently working on [GR Insights](https://github.com/nathezek/gr-insights).
 
-### Frontend
-* **Languages:** JavaScript, TypeScript
-* **Frameworks/Libraries:** React, Next.js, Vue
-* **Styling:** Tailwind CSS, HTML, CSS
+Here are some of the technologies I use:
+* **Frontend:** JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS
+* **Backend:** Node.js, Express, Python, Rust, Bun, MongoDB, MySQL, Electron
+* **Cloud & DevOps:** AWS, Cloudflare, Firebase, Docker
+* **Machine Learning:** PyTorch, Python (ML/AI stack)
 
-### Backend & Systems
-* **Languages:** Python, Rust
-* **Runtimes / Frameworks:** Node.js, Express, Bun
-* **Databases:** MongoDB, MySQL
-* **Desktop:** Electron
+---
 
-### Cloud & DevOps
-* **Cloud Platforms:** AWS, Cloudflare, Firebase
-* **Containerization:** Docker
-
-### Machine Learning
-* **Libraries:** PyTorch
-* **Stack:** Python (ML/AI Stack)
-
-## How to Reach Me
+**How to Reach Me**
 * **Email:** [nathezek7@gmail.com](mailto:nathezek7@gmail.com)
 * **GitHub:** [github.com/nathezek](https://github.com/nathezek)
 * **Instagram:** [@nate_zek7](https://www.instagram.com/nate_zek7/)
-
